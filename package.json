@@ -1,0 +1,14 @@
+{
+  "name": "rahul-ai-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Three small, browser-based AI demonstrations by Rahul Rachhoya.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test core.test.mjs",
+    "check": "node --check app.mjs && node --check core.mjs && node --check ai-worker.mjs && node --check server.mjs",
+    "build": "node build.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
