@@ -124,7 +124,7 @@ Each demo intentionally has one narrow job. A custom project starts with a busin
 
 Those are possible future scopes, not features included here. Customer hosting and model costs must be assessed separately; these demos do not commit Rahul to paying a client's operating costs.
 
-Discuss a project through the [Rahul Studio contact flow](https://rahulrachhoya.is-a.dev/rahul-studio/#contact).
+Discuss a project through the [Rahul Studio contact flow](https://rahulrachhoya.is-a.dev/rahul-studio/#start).
 
 ## Upstream references
 
